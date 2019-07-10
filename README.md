@@ -1,4 +1,5 @@
 # Segmentation-Series-Chaos
+
 ### Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"
 
 ------
@@ -18,6 +19,7 @@
 |                              |        |                 |       |                                        |                                                              |                                                     |
 |                              |        |                 |       |                                        |                                                              |                                                     |
 |                              |        |                 |       |                                        |                                                              |                                                     |
+------
 
 - In term of VOC and cityscapes, **deeplab V3/V3+ is the best** from the related leaderboarder: [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6) , [Cityspaces](https://www.cityscapes-dataset.com/benchmarks/) and [https://paperswithcode.com/task/semantic-segmentation](https://paperswithcode.com/task/semantic-segmentation) 
 
