@@ -62,5 +62,5 @@
 
 ### updated 20190710:
 
-- Latested **lightweight** model maybe useful: [**mobileNetV3**](https://arxiv.org/abs/1905.02244) (*First Submitted on 6 May 2019*) and [**efficientNet**](https://arxiv.org/abs/1905.11946) (* First Submitted on 28 May 2019* ) using NAS (Neural Architectures Search) techs.
+- Latested **lightweight** model maybe useful: [**mobileNetV3**](https://arxiv.org/abs/1905.02244) (*First Submitted on 6 May 2019*) and [**efficientNet**](https://arxiv.org/abs/1905.11946) (*First Submitted on 28 May 2019*) using NAS (Neural Architectures Search) techs.
 - 
