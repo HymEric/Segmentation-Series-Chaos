@@ -21,6 +21,8 @@
 
 - In term of VOC and cityscapes, **deeplab V3/V3+ is the best** from the related leaderboarder: [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6) , [Cityspaces](https://www.cityscapes-dataset.com/benchmarks/) and [https://paperswithcode.com/task/semantic-segmentation](https://paperswithcode.com/task/semantic-segmentation) 
 
+![image](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
+
 - Good advice of mobile devices: less than 2 GFLOPs from AI in RTC challenge group.
 
 - Google‘s solution in [Mobile Real-time Video Segmentation](http://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
@@ -33,7 +35,7 @@
 
 - Similar project in GitHub about human segmetation: [Human-Segmentation-PyTorch](https://github.com/AntiAegis/Human-Segmentation-PyTorch) 
 
-  ![Pasted Graphic 3.tiff](/var/folders/f8/mhn1wkxx1dn08f_2wl1d1_n00000gn/T/abnerworks.Typora/58436F79-A0BD-438B-801C-6DFF6E867773/Pasted%20Graphic%203.tiff)
+![image](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Human-Segmentation-PyTorch.png)
 
 - A nearest project&paper produced by Alimama called [Semantic_Human_Matting (SHM)](https://github.com/lizhengwei1992/Semantic_Human_Matting) paper in ACMMM. SHM is the first algorithm that learns to jointly fit both semantic information and high quality details with deep networks. (alpha matte)
 
@@ -52,7 +54,7 @@
 
 - A blog conclusion about image semantic segmentation [Review of Deep Learning Algorithms for Image Semantic Segmentation](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57) 
 
-  ![image-20190710093359370](/Users/juphoon/Library/Application Support/typora-user-images/image-20190710093359370.png)
+![image](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Review%20of%20Deep%20Learning%20Algorithms%20for%20Image%20Semantic%20Segmentation.png)
 
 ------
 
