@@ -72,7 +72,7 @@
 
   ![Structured Knowledge Distillation for Semantic Segmentation](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Structured%20Knowledge%20Distillation%20for%20Semantic%20Segmentation.png)
 
-- New upsampling method called DUpsample: the **W** can be learned and a speciall feature fusion tech like inverted fusion decreases the compuation greatly. **It outperform deeplabv3+ but only 30% computation.** [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120) 
+- New upsampling method called DUpsample: the **W** can be learned and a speciall feature fusion tech like inverted fusion decreases the compuation greatly. **It outperform deeplabv3+ but only 30% computation.** [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120) CVPR2019
 
   ![Decoders Matter for Semantic Segmentation-Data-Dependent Decoding Enables Flexible Feature Aggregation](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Decoders%20Matter%20for%20Semantic%20Segmentation-Data-Dependent%20Decoding%20Enables%20Flexible%20Feature%20Aggregation.png)
 
