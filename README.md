@@ -22,11 +22,11 @@
 
 - An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions
 
-  ![efficient](/Users/juphoon/Desktop/erichym/pictures/efficient.png)
+![image](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/efficient.png)
 
 - In term of VOC and cityscapes, **deeplab V3/V3+ is the best** from the related leaderboarder: [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6) , [Cityspaces](https://www.cityscapes-dataset.com/benchmarks/) and [https://paperswithcode.com/task/semantic-segmentation](https://paperswithcode.com/task/semantic-segmentation) 
 
-  ![Survey on semantic segmentation using deep learning techniques](/Users/juphoon/Desktop/erichym/pictures/Survey on semantic segmentation using deep learning techniques.png)
+  ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
 
 - Good advice of mobile devices: less than 2 GFLOPs from AI in RTC challenge group.
 
@@ -40,7 +40,7 @@
 
 - Similar project in GitHub about human segmetation: [Human-Segmentation-PyTorch](https://github.com/AntiAegis/Human-Segmentation-PyTorch) 
 
-  ![Human-Segmentation-PyTorch](/Users/juphoon/Desktop/erichym/pictures/Human-Segmentation-PyTorch.png)
+  ![Human-Segmentation-PyTorch](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Human-Segmentation-PyTorch.png)
 
 - A nearest project&paper produced by Alimama called [Semantic_Human_Matting (SHM)](https://github.com/lizhengwei1992/Semantic_Human_Matting) paper in ACMMM. SHM is the first algorithm that learns to jointly fit both semantic information and high quality details with deep networks. (alpha matte)
 
@@ -60,29 +60,29 @@
 
 - A blog conclusion about image semantic segmentation [Review of Deep Learning Algorithms for Image Semantic Segmentation](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57) 
 
-  ![Review of Deep Learning Algorithms for Image Semantic Segmentation](/Users/juphoon/Desktop/erichym/pictures/Review of Deep Learning Algorithms for Image Semantic Segmentation.png)
+  ![Review of Deep Learning Algorithms for Image Semantic Segmentation](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Review%20of%20Deep%20Learning%20Algorithms%20for%20Image%20Semantic%20Segmentation.png)
 
 ------
 
-### Updated 20190710:
+### Updated from 20190710:
 
 - Latested **lightweight** model maybe useful: [**mobileNetV3**](https://arxiv.org/abs/1905.02244) (*First Submitted on 6 May 2019*) and [**efficientNet**](https://arxiv.org/abs/1905.11946) (*First Submitted on 28 May 2019*) using NAS (Neural Architectures Search) techs.
 
 - An **useful algorithm** CVPR2019 about how to use knowledge distillation to improve accuracy of lightweight semantic segmentation models without increasing the params size and GFlops: [Structured Knowledge Distillation for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) proposed by microsoft research asia.
 
-  ![Structured Knowledge Distillation for Semantic Segmentation](/Users/juphoon/Desktop/erichym/pictures/Structured Knowledge Distillation for Semantic Segmentation.png)
+  ![Structured Knowledge Distillation for Semantic Segmentation](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Structured%20Knowledge%20Distillation%20for%20Semantic%20Segmentation.png)
 
 - New upsampling method called DUpsample: the **W** can be learned and a speciall feature fusion tech like inverted fusion decreases the compuation greatly. **It outperform deeplabv3+ but only 30% computation.** [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120) 
 
-  ![Decoders Matter for Semantic Segmentation-Data-Dependent Decoding Enables Flexible Feature Aggregation](/Users/juphoon/Desktop/erichym/pictures/Decoders Matter for Semantic Segmentation-Data-Dependent Decoding Enables Flexible Feature Aggregation.png)
+  ![Decoders Matter for Semantic Segmentation-Data-Dependent Decoding Enables Flexible Feature Aggregation](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Decoders%20Matter%20for%20Semantic%20Segmentation-Data-Dependent%20Decoding%20Enables%20Flexible%20Feature%20Aggregation.png)
 
 - Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation
 
-  ![Auto-deeplab](/Users/juphoon/Desktop/erichym/pictures/Auto-deeplab.png)
+  ![Auto-deeplab](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Auto-deeplab.png)
 
 - Espnetv2: A light-weight, power efficient, and general purpose convolutional neural network
 
-  ![ESPNetv2](/Users/juphoon/Desktop/erichym/pictures/ESPNetv2.png)
+  ![ESPNetv2](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/ESPNetv2.png)
 
 - 
 
