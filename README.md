@@ -106,6 +106,6 @@
 
 [done] Semantic segmentation research in CVPR2019
 
-[done] matting in detail [link](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/matting) 
+[done] [matting in detail](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/matting) 
 
 [-] experiments
