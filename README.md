@@ -2,6 +2,8 @@
 
 ### Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"
 
+ ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
+ 
 ------
 
 | model／year                                   | para   | infer time (ms) | flops               | accuracy (VOC2012 /COCO /Cityscapes : %) | paper                                                        | code                                                | more                                                         |
@@ -25,8 +27,6 @@
 ![image](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/efficient.png)
 
 - In term of VOC and cityscapes, **deeplab V3/V3+ is the best** from the related leaderboarder: [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6) , [Cityspaces](https://www.cityscapes-dataset.com/benchmarks/) and [https://paperswithcode.com/task/semantic-segmentation](https://paperswithcode.com/task/semantic-segmentation) 
-
-  ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
 
 - Good advice of mobile devices: less than 2 GFLOPs from AI in RTC challenge group.
 
