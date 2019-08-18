@@ -1,5 +1,7 @@
 # Segmentation-Series-Chaos
 
+#### *Summary includes basic segmentation, human segmentation, human parsing and matting for both image and video. Maybe it is a little chaos, so I called it Segmentation-Series-Chaos. If you want a clear understanding, feel free to fork and modify*
+
 ### Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"
 
  ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
