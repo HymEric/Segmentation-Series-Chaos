@@ -1,0 +1,4 @@
+model_checkpoint_path: "MMNetModel-304500"
+all_model_checkpoint_paths: "MMNetModel-303500"
+all_model_checkpoint_paths: "MMNetModel-304000"
+all_model_checkpoint_paths: "MMNetModel-304500"
