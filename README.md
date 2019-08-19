@@ -4,25 +4,22 @@
 
 <!-- TOC -->
 
-- [Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"](#Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"")
+- [done] [Summary of 2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing](#Summary-of-2019-Survey-on-semantic-segmentation-using-deep-learning-techniques_Neurocomputing)
 
-- *[done]* Semantic segmentation research in CVPR2019
+- [done] [Semantic segmentation research in CVPR2019](#Semantic-segmentation-research-in-CVPR2019)
 
 - [done] [matting in detail](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/matting) 
 
 - [done] [Focus on Deeplab-research](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/Deeplab-research)
 
-<!-- TOC -->
-
-
-### TODO:
-
 - [doing] experiments
   
   - [MMnet experiment](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp)
+  
+<!-- TOC -->
 
 
-### Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"
+### Summary of 2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing
 
  ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
  
