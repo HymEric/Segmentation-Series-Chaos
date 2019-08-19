@@ -110,4 +110,6 @@
 
 [done] [matting in detail](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/matting) 
 
-[-] experiments
+[doing] experiments
+
+- [MMnet experiment](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp)
