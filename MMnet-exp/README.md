@@ -5,7 +5,7 @@
 - Training protocol:
 
   - Datasets: [Deep Automatic Portrait Matting](http://xiaoyongshen.me/webpages/webpage_automatting/) as portrait datasets and [aisegment](https://github.com/aisegmentcn/matting_human_datasets) as aisegmet datasets..
-  - Training step splits into: 304500 steps with portrait datasets, 887000 step is a incremental training with aisegment datasets which  based on 304500 step  and 1898000 steps which is incremental training based 304500 step just use only portrait datasets .
+  - Training step splits into: 304500 steps with portrait datasets, 887000 step is a incremental training with joint portrait and aisegment datasets which  based on 304500 step  and 1898000 steps which is incremental training based 304500 step just use only portrait datasets .
   - Others setting follow the based project.
 
 - Training checkpoint can be found in: [304500-exp](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp/304500-exp), [887000-exp](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp/887000-exp), [1898000-exp](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp/1898000-exp)
