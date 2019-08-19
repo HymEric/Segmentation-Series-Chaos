@@ -4,7 +4,7 @@
 
 <!-- TOC -->
 
-- [done] [Summary of 2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing](#Summary-of-2019-Survey-on-semantic-segmentation-using-deep-learning-techniques_Neurocomputing)
+- [done] [Summary of 2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing and other useful sights](#Summary-of-2019-Survey-on-semantic-segmentation-using-deep-learning-techniques_Neurocomputing-and-other-useful-sights)
 
 - [done] [Semantic segmentation research in CVPR2019](#Semantic-segmentation-research-in-CVPR2019)
 
@@ -19,7 +19,7 @@
 <!-- TOC -->
 
 
-### Summary of 2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing
+### Summary of 2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing and other useful sights
 
  ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
  
