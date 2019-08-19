@@ -8,7 +8,7 @@
   - Training step splits into: 304500 steps with portrait datasets, 887000 step is a incremental training with aisegment datasets which  based on 304500 step  and 1898000 steps which is incremental training based 304500 step just use only portrait datasets .
   - Others setting follow the based project.
 
-- Training record. can be found in: [304500-exp](), [887000-exp](), [1898000-exp]()
+- Training checkpoint can be found in: [304500-exp](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp/304500-exp), [887000-exp](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp/887000-exp), [1898000-exp](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp/1898000-exp)
 
 - Quantitative Overview:
 
