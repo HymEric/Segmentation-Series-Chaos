@@ -2,6 +2,26 @@
 
 #### *Summary includes basic segmentation, human segmentation, human parsing and matting for both image and video. Maybe it is a little chaos, so I called it Segmentation-Series-Chaos. If you want a clear understanding, feel free to fork and modify*.
 
+<!-- TOC -->
+
+- [Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"](#Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"")
+
+- *[done]* Semantic segmentation research in CVPR2019
+
+- [done] [matting in detail](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/matting) 
+
+- [done] [Focus on Deeplab-research](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/Deeplab-research)
+
+<!-- TOC -->
+
+
+### TODO:
+
+- [doing] experiments
+  
+  - [MMnet experiment](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp)
+
+
 ### Summary of "2019 Survey on semantic segmentation using deep learning techniques_Neurocomputing"
 
  ![Survey on semantic segmentation using deep learning techniques](https://github.com/HymEric/Segmentation-Series-Chaos/blob/master/pictures/Survey%20on%20semantic%20segmentation%20using%20deep%20learning%20techniques.png)
@@ -104,12 +124,5 @@
 
 ------
 
-### TODO:
 
-[done] Semantic segmentation research in CVPR2019
 
-[done] [matting in detail](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/matting) 
-
-[doing] experiments
-
-- [MMnet experiment](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp)
