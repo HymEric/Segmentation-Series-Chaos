@@ -16,7 +16,7 @@
   
   - [MMnet experiment](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp)
   
-  - [Deeplabv3+matte](Deeplabv3%2Bmatte_exp)
+  - [Deeplabv3+matte: transfer deeplabv3+ to matting task experiment](Deeplabv3%2Bmatte_exp)
   
 <!-- TOC -->
 
