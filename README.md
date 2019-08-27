@@ -16,6 +16,8 @@
   
   - [MMnet experiment](https://github.com/HymEric/Segmentation-Series-Chaos/tree/master/MMnet-exp)
   
+  - [Deeplabv3+matte](Deeplabv3%2Bmatte_exp)
+  
 <!-- TOC -->
 
 
