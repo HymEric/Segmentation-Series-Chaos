@@ -15,7 +15,7 @@
 
 #### Pre-trained on aisegment (dev-look-ahead):
 
-- Training checkpoint: [epoch0-pth]()
+- Training checkpoint: [epoch0-pth](pe-train_exp)
 
 - [todo] Quantitative metrics overview
 
