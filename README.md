@@ -1,6 +1,6 @@
 # Segmentation-Series-Chaos
 
-#### *Summary includes basic segmentation, human segmentation, human parsing and matting for both image and video. Maybe it is a little chaos, so I called it Segmentation-Series-Chaos. If you want a clear understanding, feel free to fork and modify*.
+#### *Summary includes basic segmentation, human segmentation, human or portrait matting for both image and video. Maybe it is a little chaos, so I called it Segmentation-Series-Chaos. If you want a clear understanding, feel free to fork and modify*.
 
 <!-- TOC -->
 
